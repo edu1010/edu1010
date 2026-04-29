@@ -11,34 +11,6 @@ I have worked on game creation for **PC, mobile, and VR**, and I also teach comp
 - Rapid prototyping in Unity and Unreal
 - Technical mentoring and programming education
 
-## Repository Snapshot (public profile)
-
-- **35 public repositories** (33 original projects)
-- Main focus: **C# / ShaderLab / Unity**
-- Additional work in **C++**, **Lua**, **JavaScript**, **Python**, and **R**
-
-## Featured Projects
-
-- [DrawOnVideo](https://github.com/edu1010/DrawOnVideo): Draw over videos in real time (JavaScript side project).
-- [ProceduralGenerationTool](https://github.com/edu1010/ProceduralGenerationTool): Unity procedural generation experiments (cellular automata, WFC, room systems).
-- [ProceduralGame](https://github.com/edu1010/ProceduralGame): Ongoing procedural game exploration in Unity.
-- [NekAI](https://github.com/edu1010/NekAI): Mini metroidvania prototype in Unity.
-- [GlobalGameJam2023](https://github.com/edu1010/GlobalGameJam2023) and [GlobalGameJam2022](https://github.com/edu1010/GlobalGameJam2022): Game Jam projects.
-- [Astar-and-creation-of-a-3d-graph](https://github.com/edu1010/Astar-and-creation-of-a-3d-graph): Educational project used to explain A* and graph concepts.
-
-## Teaching & Learning Repositories
-
-- [Practice-Pathfinding](https://github.com/edu1010/Practice-Pathfinding)
-- [IA-Finite-State-Machines-Practice](https://github.com/edu1010/IA-Finite-State-Machines-Practice)
-- [PracticeTreeBehievours](https://github.com/edu1010/PracticeTreeBehievours)
-- [unity-FP-transversal-tool](https://github.com/edu1010/unity-FP-transversal-tool)
-
-## Beyond Game Development
-
-- [Analysing-Cookie-Cats-Data-Analytics-Project](https://github.com/edu1010/Analysing-Cookie-Cats-Data-Analytics-Project)
-- [ExperimentOfDataAnalyticsWithR](https://github.com/edu1010/ExperimentOfDataAnalyticsWithR)
-- [ExtraeContenidoWeb](https://github.com/edu1010/ExtraeContenidoWeb)
-
 ## Tech Stack
 
 <p>
