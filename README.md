@@ -20,8 +20,8 @@ I have worked on game creation for **PC, mobile, and VR**, and I also teach comp
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edu1010&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu1010&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" alt="Eduard's GitHub stats" src="https://raw.githubusercontent.com/edu1010/edu1010/master/profile-summary-card-output/github/3-stats.svg" />
+  <img height="170" alt="Eduard's most used languages" src="https://raw.githubusercontent.com/edu1010/edu1010/master/profile-summary-card-output/github/1-repos-per-language.svg" />
 </p>
 
 ## 🐍 My Contributions
